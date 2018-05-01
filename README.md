@@ -3,7 +3,7 @@ A game similar to Space Invaders developed for Computer Science E214 (Sellenbosc
 
 ![screenshot.png](screenshot.png "screenshot.png")
 
-### Compilation and execution
+## Compilation and execution
 Compile and run the Invaders.java file.
 
 ### Interface inheritance
